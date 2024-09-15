@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on codes and product review...
 - 📫 How to reach me soodipkarki07@gmail.com ...
 - 
-- ⚡ Fun fact: i like to workout, changes
+- ⚡ Fun fact: i like to changes
 
 <!---
 Sudipk007/Sudipk007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
