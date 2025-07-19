@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on codes and product review...
 - 📫 How to reach me soodipkarki07@gmail.com ...
 - 
-- ⚡ Fun fact: i like to changes
+- ⚡ Fun fact: like to play football "soccer", watch ufc get expose to new ideas
+- my recent backend project check it out https://taskm-iib1.onrender.com 
 
 <!---
 Sudipk007/Sudipk007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
